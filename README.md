@@ -14,6 +14,6 @@ Node.js • Express • PostgreSQL • JWT • Zod
 - 🏋️ Gym Management API → https://administracion-gimnasio-7f7r.onrender.com
 - 📊 Investment API → https://portafolio-inversiones.onrender.com
 
-📫 Contacto:
+📫 Contacto: +543544663238
 LinkedIn: 
 Email: ryderwismathbenjamin@gmail.com
