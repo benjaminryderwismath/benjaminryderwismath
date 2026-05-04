@@ -11,9 +11,9 @@
 Node.js • Express • PostgreSQL • JWT • Zod
 
 📌 Proyectos destacados:
-- 🏋️ Gym Management API → [link]
-- 📊 Investment API → [link]
+- 🏋️ Gym Management API → https://administracion-gimnasio-7f7r.onrender.com
+- 📊 Investment API → https://portafolio-inversiones.onrender.com
 
 📫 Contacto:
-LinkedIn: [link]
-Email: [email]
+LinkedIn: 
+Email: ryderwismathbenjamin@gmail.com
