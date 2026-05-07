@@ -15,5 +15,5 @@ Node.js • Express • PostgreSQL • JWT • Zod
 - 📊 Investment API → https://portafolio-inversiones.onrender.com
 
 📫 Contacto: +543544663238
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/benjamin-ryder-wismath-95b631291 
 Email: ryderwismathbenjamin@gmail.com
