@@ -18,7 +18,7 @@ con Node.js, Express y PostgreSQL.
 
 🏋️ **[Gym Management API](https://github.com/benjaminryderwismath/gimnasio)**
 API REST para administración de gimnasios — alumnos, profesores, pagos, recordatorios automáticos.
-`Node.js` `PostgreSQL` `JWT` `Zod` `Jest` · [Live](https://administracion-gimnasio-7f7r.onrender.com)
+`Node.js` `PostgreSQL` `JWT` `Zod` `Jest` `Testing` · [Live](https://administracion-gimnasio-7f7r.onrender.com)
 
 📈 **[Investment Portfolio API](https://github.com/benjaminryderwismath/Portafolio_inversiones)**
 Gestor de portafolios de inversión con precios en tiempo real vía Alpha Vantage y CoinGecko.
